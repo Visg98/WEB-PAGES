@@ -1,0 +1,19 @@
+h4{
+	letter-spacing: 2px;
+	color: #3498db;
+}
+h2{
+	color: #2c3e50;
+}
+body{
+	border:10px solid #bdc3c7;
+	padding: 15px;
+	font-family:source sans pro ;
+	max-width: 700px;
+	width: 80%; 
+    margin: 20px auto;
+}
+#start{
+	border-left: 5px solid #bdc3c7;
+	padding: 2px;
+}

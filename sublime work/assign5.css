@@ -1,0 +1,71 @@
+body{
+	background: #bdc3c7;
+}
+h1{
+	color: #9b59b6;
+}
+h2{
+	color: orange;
+}
+li{
+	color: #0000FF;
+}
+p{
+	background: yellow;
+}
+li{
+	border: 3px solid red;
+}
+.hello{
+	background: white;
+}
+#special{
+	border: 2px solid rgb(0,0,250);
+}
+#name{
+	background: gray;
+}
+.nested{
+	font-size: 25px;
+}
+#third p{
+	background: pink;
+}
+#last{
+	border: 5px solid white;
+}
+#em{
+	color: white;
+	font-size: 20px;
+}
+ul li :checked {
+	margin-left: 50px;
+}
+label{
+	text-transform: uppercase;
+}
+#special:first-letter{
+    color: green;
+    font-size: 100px;
+}
+h1:hover{
+	color: blue;
+}
+a:visited{
+	color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
